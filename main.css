@@ -2,9 +2,6 @@
 body{
     margin:0;
 }
-.navbar-custom{
-
-}
 .container{
     display:flex;
     justify-content: space-around;
@@ -68,9 +65,9 @@ body{
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
+    font-size: 40px;
 }
 .container-write{
-    font-size: 48px;
     position:absolute;
     top: 24%;
     text-align: center;
@@ -1613,9 +1610,7 @@ padding:0px 0;
     .container-momo{
         padding:0;
     }
-    .item-apps{
-        
-    }
+   
     .sunny-heoly{
         padding:0 10%;
     }
